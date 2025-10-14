@@ -1,76 +1,51 @@
-<!-- 🧠 Personal Logo -->
-<p align="center">
+<!-- 🧠 Add your personal logo -->
+<p align="left">
   <img src="https://i.postimg.cc/RZnPMcMk/IMG-20250226-WA0046.jpg" 
     alt="Abhinav Pandey Logo" width="180"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Abhinav Pandey</span></h1>
+<h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
+<h3 align="center">A passionate Web Developer & Full Stack Developer</h3>
 
-<!-- 💬 Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Developer;Python+%26+Flask+Enthusiast;Open+Source+Contributor;UI%2FUX+Creative+Designer" alt="Typing SVG" />
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav1901498&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav1901498" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinav1901498&label=Profile%20Views&color=00C2FF&style=flat-square" alt="Profile Views" />
+<img align="right" width="400px" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="coding gif">
+
+- 🔭 I’m currently working on **Full-stack Web Applications**
+- 🌱 I’m currently learning **React, Flask, and Advanced JavaScript**
+- 👯 I’m looking to collaborate on exciting web and Python projects
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Abhinav1901498)
+- 💬 Ask me about **HTML, CSS, JS, React, C, Python, Flask**
+- 📫 How to reach me: **pandeyabhi3150@gmail.com**
+- 📄 Know more about my experiences: **N/A**
+- ⚡ Fun fact: **I have completed a 3-month internship program at Digipodium Organization!**
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav1901498" alt="Abhinav1901498" /></a> 
 </p>
 
-<!-- 💻 Animated GIF -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="Coding Animation"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/@pandeyabhi3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abhinav-pandeyb499532b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  
 </p>
 
-<h2 align="center">🌟 About Me</h2>
-<p align="center">
-  🔭 Working on <b>Full-Stack Web Applications</b><br>
-  🌱 Learning <b>React, Flask, and Advanced JavaScript</b><br>
-  👯 Open to collaborating on <b>exciting Web and Python projects</b><br>
-  💬 Ask me about <b>HTML, CSS, JS, React, C, Python, Flask</b><br>
-  📫 <b>pandeyabhi3150@gmail.com</b><br>
-  ⚡ Fun fact: Completed a <b>3-month internship</b> at Digipodium Organization!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav1901498&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav1901498&show_icons=true&locale=en&layout=compact" alt="Abhinav1901498" /></p>
 
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
-  <a href="https://x.com/@abhianvpandey3150" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
-  <a href="https://www.linkedin.com/in/abhinav-pandeyb499532b5/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="mailto:pandeyabhi3150@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinav1901498&show_icons=true&locale=en" alt="Abhinav1901498" /></p>
 
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,cpp,git,github,vscode" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav1901498&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav1901498&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav1901498&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<h2 align="center">🧠 Interactive Contribution Stats</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abhinav1901498&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%" />
-</p>
-
-<h2 align="center">💬 Quote of the Day</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
-</p>
-
-<p align="center">⭐️ <b>From <a href="https://github.com/Abhinav1901498">Abhinav Pandey</a></b></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav1901498&" alt="Abhinav1901498" /></p>
