@@ -1,7 +1,7 @@
 <!-- 🧠 Add your personal logo -->
 <p align="left">
   <img src="https://i.postimg.cc/RZnPMcMk/IMG-20250226-WA0046.jpg" 
-    alt="Abhinav Pandey Logo" width="180"/>
+    alt="Abhinav Pandey Logo" width="180" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
