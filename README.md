@@ -1,6 +1,6 @@
 <!-- 🧠 Add your personal logo -->
 <p align="left">
-  <img src="https://i.postimg.cc/RZnPMcMk/IMG-20250226-WA0046.jpg" 
+  <img src="[https://i.postimg.cc/RZnPMcMk/IMG-20250226-WA0046.jpg](https://imagefa.st/images/2025/12/05/abhinav_rgb-removebg-preview.jpeg)" 
     alt="Abhinav Pandey Logo" width="180" />
 </p>
 
